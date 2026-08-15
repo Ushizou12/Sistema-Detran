@@ -1,7 +1,7 @@
 # Sistema-Detran
 
 ## Descrição
-Projeto desenvolvido para a disciplina de Estrutura de Dados para a Graduação do curso de Análise Desenvolvimento de Sistemas (ADS); este projeto simula o sistema de (Detran Departamento Estadual de Trânsito) e foi feito com os colaboradores Matheus N., Luiz F. e Guilherme B..
+Projeto desenvolvido para a disciplina de Estrutura de Dados para a Graduação do curso de Análise e Desenvolvimento de Sistemas (ADS); este projeto simula o sistema de (Detran Departamento Estadual de Trânsito) e foi feito com os colaboradores Matheus N., Luiz F. e Guilherme B..
 
 ## Como instalar?
 
